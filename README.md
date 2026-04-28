@@ -18,8 +18,10 @@ A simple Spring Boot application to shorten URLs.
    git clone https://github.com/mrunalshinde12/urlshortener.git
 
 2. Navigate into the project folder:
+    ```bash
      cd urlshortener
 
-3. Run the application using Maven:
+4. Run the application using Maven:
+    ```bash
      mvn spring-boot:run
 
