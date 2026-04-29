@@ -24,4 +24,5 @@ A simple Spring Boot application to shorten URLs.
 4. Run the application using Maven:
     ```bash
      mvn spring-boot:run
+    
 
