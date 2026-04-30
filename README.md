@@ -24,5 +24,11 @@ A simple Spring Boot application to shorten URLs.
 4. Run the application using Maven:
     ```bash
      mvn spring-boot:run
+
+## Configuration
+Before running, set the following environment variables:
+- `DB_USERNAME` : your database username
+- `DB_PASSWORD` : your database password
+
     
 
