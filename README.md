@@ -30,5 +30,21 @@ Before running, set the following environment variables:
 - `DB_USERNAME` : your database username
 - `DB_PASSWORD` : your database password
 
-    
+## Usage
+POST /api/shorten
+Request:
+{
+  "url": "https://example.com"
+}
 
+Response:
+{
+  "shortUrl": "http://localhost:9090/s/abc123"
+}
+
+## Screenshots
+### Homepage
+![Homepage]()
+
+### Shortened URL Result
+![Result](screenshots/result.png)
