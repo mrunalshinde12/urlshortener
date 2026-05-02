@@ -43,8 +43,10 @@ Response:
 }
 
 ## Screenshots
+
 ### Homepage
-![Homepage]()
+![Homepage](src/screenshots/UrlHomepage.png)
 
 ### Shortened URL Result
-![Result](screenshots/result.png)
+![Result](src/screenshots/UrlResult.png)
+
